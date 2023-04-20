@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="text_location">Location: </string>
+    <string name="hint_location">Dublin</string>
+    <string name="text_days">Days: </string>
+    <string name="hint_days">4, 7, 12, etc...</string>
+    <string name="button_location">Use my location</string>
+    <string name="text_rain">Rain: </string>
+    <string name="button_forecast">Get Forecast</string>
+    <string name="button_preferences">Save Preferences</string>
+    <string name="text_daysForecast">Days Forecast: </string>
+    <string name="button_alarm">Set Alarm</string>
+
+</resources>
